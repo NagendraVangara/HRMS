@@ -15,5 +15,5 @@
 + ### Leave Management - Employee Leaves enteres here. 
 ![Attendance-LeaveManagement](https://github.com/NagendraVangara/HRMS/assets/145798696/6c326985-a45b-4855-be5e-322945336ac8)
 
-+ ### Following conversions (calculations) of attendance. We are displaying the employee attendance and the time the employee punched in on a calendar. for easy view to the HR.
++ ### Following conversions (calculations) of attendance. We are displaying the employee attendance and the time the employee punched on a calendar. for easy view to the HR.
 ![Attendance-EmpLeaveCalendar](https://github.com/NagendraVangara/HRMS/assets/145798696/a994c4a6-e60a-410d-82b5-cc08b184aa38)
